@@ -1,7 +1,0 @@
-name: MobHoppers
-version: '${project.version}'
-main: dev.dan.mobhoppers.MobHoppers
-api-version: 1.19
-depend: [ Slimefun ]
-authors: [ Dan ]
-description: Hops Mobs
